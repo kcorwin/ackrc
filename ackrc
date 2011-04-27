@@ -1,0 +1,9 @@
+--type-set=email=.email
+--type-set=xlf=.xlf
+--type-add=jsp=.jinc
+--type-add=jsp=.tag
+--type=noxlf
+--ignore-dir=src/com/meetup/db/entity
+--ignore-dir=src/com/meetup/db/mvnforum/entity
+--ignore-dir=static/script/Meetup/packed
+--ignore-dir=parsed_src
